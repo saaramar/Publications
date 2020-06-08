@@ -7,10 +7,13 @@ Recon BRX 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://recon.
 
 35C3 - Modern Windows Userspace Exploitation: [slides](https://github.com/saaramar/Publications/blob/master/35C3_Windows_Mitigations/Modern%20Windows%20Userspace%20Exploitation.pdf), [video](https://www.youtube.com/watch?v=kg0J8nRIAhk), [repo](https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation)
 
-## Blogposts
+## Papers
+[LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
+
+## Blogposts / Meetups
 [Deterministic LFH - bypass && mitigate LFH randomization](https://github.com/saaramar/Deterministic_LFH)
 
-[LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
+[VBS Internals](https://github.com/saaramar/Publications/blob/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 
 [First Steps in Hyper-V Research](http://aka.ms/hvresearch101)
 
