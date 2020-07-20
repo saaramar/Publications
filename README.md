@@ -10,6 +10,8 @@ Recon BRX 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://recon.
 ## Papers
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
+[Evaluating the feasibility of enabling SMAP for the Windows kernel](https://github.com/microsoft/MSRC-Security-Research/blob/master/papers/2020/Evaluating%20the%20feasibility%20of%20enabling%20SMAP%20for%20the%20Windows%20kernel.pdf)
+
 ## Blogposts / Meetups
 [Deterministic LFH - bypass && mitigate LFH randomization](https://github.com/saaramar/Deterministic_LFH)
 
