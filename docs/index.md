@@ -1,4 +1,8 @@
-# Publications
+# Saar Amar - Publications
+
+[Twitter](https://twitter.com/AmarSaar), [Github](https://github.com/saaramar)
+
+MSRC, [pastenctf](https://twitter.com/pastenctf) team member
 
 ## Public Conferences
 Blackhat USA 2020 - Breaking VSM by Attacking SecureKernel: [slides](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2020_08_BlackHatUSA/Breaking_VSM_by_Attacking_SecureKernel.pdf)
