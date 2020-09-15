@@ -19,6 +19,8 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
+[echo pwn challenge, googlequals2020 - solution](https://github.com/saaramar/echo_googlequals2020)
+
 [emojidb pwn challenge, plaidctf2020 - writeup](https://saaramar.github.io/emojidb_plaidctf2020/)
 
 [str::repeat - stable wildcopy exploit](https://saaramar.github.io/str_repeat_exploit/)
