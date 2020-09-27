@@ -15,10 +15,6 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
-[echo pwn challenge, googlequals2020 - solution](https://github.com/saaramar/echo_googlequals2020)
-
-[emojidb pwn challenge, plaidctf2020 - writeup](https://saaramar.github.io/emojidb_plaidctf2020/)
-
 [str::repeat - stable wildcopy exploit of CVE-2018-1000810](https://saaramar.github.io/str_repeat_exploit/)
 
 [Attacking the VM Worker Process](https://msrc-blog.microsoft.com/2019/09/11/attacking-the-vm-worker-process)
@@ -28,6 +24,12 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [VBS Internals](https://github.com/saaramar/Publications/blob/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 
 [Deterministic LFH - bypass && mitigate LFH randomization](https://github.com/saaramar/Deterministic_LFH)
+
+## CTFs writeups
+
+[echo pwn challenge, googlequals2020 - solution](https://github.com/saaramar/echo_googlequals2020)
+
+[emojidb pwn challenge, plaidctf2020 - writeup](https://saaramar.github.io/emojidb_plaidctf2020/)
 
 [tree pwn challenge, 32c3 ctf](https://github.com/saaramar/32c3-tree-pwn500)
 
