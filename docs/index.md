@@ -14,6 +14,8 @@ Recon BRX 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://recon.
 BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github.com/saaramar/Publications/blob/master/BluehatIL_2018_WSL_exploit/WSL_slides.pdf), [video](https://www.youtube.com/watch?v=3deJvbBHET4&feature=youtu.be), [repo](https://github.com/saaramar/execve_exploit)
 
 ## Papers
+[Security analysis of CHERI ISA](https://github.com/microsoft/MSRC-Security-Research/blob/master/papers/2020/Security%20analysis%20of%20CHERI%20ISA.pdf)
+
 [Evaluating the feasibility of enabling SMAP for the Windows kernel](https://github.com/microsoft/MSRC-Security-Research/blob/master/papers/2020/Evaluating%20the%20feasibility%20of%20enabling%20SMAP%20for%20the%20Windows%20kernel.pdf)
 
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
