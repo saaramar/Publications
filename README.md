@@ -17,6 +17,8 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
+[Exhaust EL1 memory from the app sandbox](https://saaramar.github.io/iOS_memory_exhaustion_writeup/)
+
 [str::repeat - stable wildcopy exploit of CVE-2018-1000810](https://saaramar.github.io/str_repeat_exploit/)
 
 [Attacking the VM Worker Process](https://msrc-blog.microsoft.com/2019/09/11/attacking-the-vm-worker-process)
