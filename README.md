@@ -1,6 +1,8 @@
 # Publications
 
 ## Public Conferences
+Blackhat USA 2021 - Security Analysis of CHERI ISA: [slides](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf)
+
 Blackhat USA 2020 - Breaking VSM by Attacking SecureKernel: [slides](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2020_08_BlackHatUSA/Breaking_VSM_by_Attacking_SecureKernel.pdf), [video](https://www.youtube.com/watch?v=pm1ejZ3LkYU)
 
 35C3 - Modern Windows Userspace Exploitation: [slides](https://github.com/saaramar/Publications/blob/master/35C3_Windows_Mitigations/Modern%20Windows%20Userspace%20Exploitation.pdf), [video](https://www.youtube.com/watch?v=kg0J8nRIAhk), [repo](https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation)
