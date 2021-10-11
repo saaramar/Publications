@@ -23,6 +23,8 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
+[Bindiff and POC for the IOMFB vulnerability, iOS 15.0.2](https://saaramar.github.io/IOMFB_integer_overflow_poc/)
+
 [WebContent->EL1 LPE: OOBR in AppleCLCD / IOMobileFrameBuffer](https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/)
 
 [Exhaust EL1 memory from the app sandbox](https://saaramar.github.io/iOS_memory_exhaustion_writeup/)
