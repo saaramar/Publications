@@ -40,6 +40,7 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [Deterministic LFH - bypass && mitigate LFH randomization](https://github.com/saaramar/Deterministic_LFH)
 
 ## CTFs writeups
+[Warm up exercises: preparing for the Ubuntu 21.10 CTFs](https://saaramar.github.io/exploit_pwn_chgs_ubuntu_21.10/)
 
 [echo pwn challenge, googlequals2020 - solution](https://github.com/saaramar/echo_googlequals2020)
 
