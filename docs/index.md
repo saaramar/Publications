@@ -5,6 +5,8 @@
 MSRC, [pastenctf](https://twitter.com/pastenctf) team member
 
 ## Public Conferences
+BluehatIL 2022 - Security Analysis of Through Examples: [slides](https://github.com/saaramar/security_analysis_mte/blob/main/Security%20Analysis%20of%20MTE%20Through%20Examples.pdf)
+
 Blackhat USA 2021 - Security Analysis of CHERI ISA: [slides](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf), [video](https://www.youtube.com/watch?v=0lKeSNHGIq4)
 
 Blackhat USA 2020 - Breaking VSM by Attacking SecureKernel: [slides](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2020_08_BlackHatUSA/Breaking_VSM_by_Attacking_SecureKernel.pdf), [video](https://www.youtube.com/watch?v=pm1ejZ3LkYU)
