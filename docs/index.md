@@ -25,7 +25,7 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
-[iOS 16 - restricted userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
+iOS 16 beta - [iOS 16 - restricted userclients](https://saaramar.github.io/ios16_restricted_iouserclients/), [IOUserClient2022 highlevel overview](https://saaramar.github.io/iouc22_overview/)
 
 iBoot Firebloom - [Introduction to iBoot Firebloom](https://saaramar.github.io/iBoot_firebloom/), [Firebloom (iBoot) - the type descriptor](https://saaramar.github.io/iBoot_firebloom_type_desc/)
 
