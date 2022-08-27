@@ -21,7 +21,10 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
-[ipc_kmsg_get_from_kernel, iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/)
+ipc_kmsg_get_from_kernel vulnerability:
+
+* [ipc_kmsg_get_from_kernel, iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/)
+* [ipc_kmsg_get_from_kernel, part 2 - exploitation primitive](https://saaramar.github.io/ipc_kmsg_blogpost_part2/)
 
 iOS 16 beta:
 
