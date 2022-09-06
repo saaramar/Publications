@@ -25,6 +25,8 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
 ## Blogposts / Meetups
+[What’s the smallest variety of CHERI?](https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/)
+
 ipc_kmsg_get_from_kernel vulnerability:
 
 * [ipc_kmsg_get_from_kernel, iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/)
