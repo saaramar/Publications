@@ -1,8 +1,8 @@
 # Saar Amar - Publications
 
-[Twitter](https://twitter.com/AmarSaar), [Github](https://github.com/saaramar)
+Security Researcher, MSRC
 
-MSRC, [pastenctf](https://twitter.com/pastenctf) team member
+[Twitter](https://twitter.com/AmarSaar), [Github](https://github.com/saaramar)
 
 ## Public Conferences
 BluehatIL 2022 - Security Analysis of MTE Through Examples: [slides](https://github.com/saaramar/security_analysis_mte/blob/main/Security%20Analysis%20of%20MTE%20Through%20Examples.pdf), [video](https://www.youtube.com/watch?v=LV8BK1ns1Ow), [repo](https://github.com/saaramar/security_analysis_mte)

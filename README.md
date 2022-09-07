@@ -1,7 +1,7 @@
 # Publications
 
 ## Public Conferences
-BluehatIL 2022 - Security Analysis of MTE Through Examples: [slides](https://github.com/saaramar/security_analysis_mte/blob/main/Security%20Analysis%20of%20MTE%20Through%20Examples.pdf), [video](https://www.youtube.com/watch?v=LV8BK1ns1Ow), [repo](https://github.com/saaramar/security_analysis_mte)
+BlueHatIL 2022 - Security Analysis of MTE Through Examples: [slides](https://github.com/saaramar/security_analysis_mte/blob/main/Security%20Analysis%20of%20MTE%20Through%20Examples.pdf), [video](https://www.youtube.com/watch?v=LV8BK1ns1Ow), [repo](https://github.com/saaramar/security_analysis_mte)
 
 Blackhat USA 2021 - Security Analysis of CHERI ISA: [slides](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf), [video](https://www.youtube.com/watch?v=0lKeSNHGIq4)
 
@@ -11,7 +11,7 @@ Blackhat USA 2020 - Breaking VSM by Attacking SecureKernel: [slides](https://git
 
 Recon BRX 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Linux-Vulnerabilities_Windows-Exploits--Escalating-Privileges-with-WSL.pdf), [repo](https://github.com/saaramar/execve_exploit)
 
-BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github.com/saaramar/Publications/blob/master/BluehatIL_2018_WSL_exploit/WSL_slides.pdf), [video](https://www.youtube.com/watch?v=3deJvbBHET4&feature=youtu.be), [repo](https://github.com/saaramar/execve_exploit)
+BlueHatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github.com/saaramar/Publications/blob/master/BluehatIL_2018_WSL_exploit/WSL_slides.pdf), [video](https://www.youtube.com/watch?v=3deJvbBHET4&feature=youtu.be), [repo](https://github.com/saaramar/execve_exploit)
 
 ## Papers
 [Security analysis of CHERI ISA](https://github.com/microsoft/MSRC-Security-Research/blob/master/papers/2020/Security%20analysis%20of%20CHERI%20ISA.pdf)
@@ -20,7 +20,7 @@ BluehatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 
 [LFH Internals and Exploitation](https://github.com/saaramar/Publications/blob/master/Digitalwhisper_LFH/LFH_internals_and_exploitation.pdf) (Hebrew)
 
-## Blogposts / Meetups
+## Blogposts
 [What’s the smallest variety of CHERI?](https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/)
 
 ipc_kmsg_get_from_kernel vulnerability:
