@@ -31,6 +31,7 @@ ipc_kmsg_get_from_kernel vulnerability:
 
 * [ipc_kmsg_get_from_kernel, iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/)
 * [ipc_kmsg_get_from_kernel, part 2 - exploitation primitive](https://saaramar.github.io/ipc_kmsg_blogpost_part2/)
+* [ipc_kmsg_get_from_kernel, part 3 - more overlaps](https://saaramar.github.io/ipc_kmsg_vuln_blogpost_part3/)
 
 iOS 16 beta:
 
