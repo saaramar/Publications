@@ -2,7 +2,7 @@
 
 Security Researcher, MSRC
 
-[Twitter](https://twitter.com/AmarSaar), [Github](https://github.com/saaramar)
+[Twitter](https://twitter.com/AmarSaar), [Github](https://github.com/saaramar), @amarsaar@infosec.exchange
 
 ## Public Conferences
 BlueHatIL 2022 - Security Analysis of MTE Through Examples: [slides](https://github.com/saaramar/security_analysis_mte/blob/main/Security%20Analysis%20of%20MTE%20Through%20Examples.pdf), [video](https://www.youtube.com/watch?v=LV8BK1ns1Ow), [repo](https://github.com/saaramar/security_analysis_mte)
