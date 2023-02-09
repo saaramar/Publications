@@ -31,11 +31,7 @@ BlueHatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 
 [What’s the smallest variety of CHERI?](https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/)
 
-ipc_kmsg_get_from_kernel vulnerability:
-
-* [ipc_kmsg_get_from_kernel, iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/)
-* [ipc_kmsg_get_from_kernel, part 2 - exploitation primitive](https://saaramar.github.io/ipc_kmsg_blogpost_part2/)
-* [ipc_kmsg_get_from_kernel, part 3 - more overlaps](https://saaramar.github.io/ipc_kmsg_vuln_blogpost_part3/)
+ipc_kmsg_get_from_kernel vulnerability: [iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/), [part 2 - exploitation primitive](https://saaramar.github.io/ipc_kmsg_blogpost_part2/), [part 3 - more overlaps](https://saaramar.github.io/ipc_kmsg_vuln_blogpost_part3/)
 
 iOS 16 beta:
 
