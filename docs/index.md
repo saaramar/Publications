@@ -31,7 +31,9 @@ BlueHatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github
 
 [kmem_guard_t introduction](https://saaramar.github.io/kmem_guard_t_blogpost/)
 
-[What’s the smallest variety of CHERI?](https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/)
+CHERIoT:
+* [What’s the smallest variety of CHERI?](https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/)
+* [First steps in CHERIoT Security Research](https://msrc.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/)
 
 ipc_kmsg_get_from_kernel vulnerability: [iOS 15.4 - root cause analysis](https://saaramar.github.io/ipc_kmsg_vuln_blogpost/), [part 2 - exploitation primitive](https://saaramar.github.io/ipc_kmsg_blogpost_part2/), [part 3 - more overlaps](https://saaramar.github.io/ipc_kmsg_vuln_blogpost_part3/)
 
