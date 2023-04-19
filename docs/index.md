@@ -1,7 +1,5 @@
 # Saar Amar - Publications
 
-Security Researcher, MSRC
-
 [Twitter](https://twitter.com/AmarSaar), [Github](https://github.com/saaramar), @amarsaar@infosec.exchange
 
 ## Public Conferences
