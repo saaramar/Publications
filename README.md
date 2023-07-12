@@ -53,9 +53,9 @@ iBoot Firebloom:
 
 [str::repeat - stable wildcopy exploit of CVE-2018-1000810](https://saaramar.github.io/str_repeat_exploit/)
 
-[Attacking the VM Worker Process](https://msrc-blog.microsoft.com/2019/09/11/attacking-the-vm-worker-process)
+[Attacking the VM Worker Process](https://msrc.microsoft.com/blog/2019/09/attacking-the-vm-worker-process/)
 
-[First Steps in Hyper-V Research](http://aka.ms/hvresearch101)
+[First Steps in Hyper-V Research](https://msrc.microsoft.com/blog/2018/12/first-steps-in-hyper-v-research/)
 
 [VBS Internals](https://github.com/saaramar/Publications/blob/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 
