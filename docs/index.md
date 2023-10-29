@@ -16,6 +16,8 @@ Recon BRX 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://recon.
 BlueHatIL 2018 - Linux Vulnerabilities Windows Exploits: [slides](https://github.com/saaramar/Publications/blob/master/BluehatIL_2018_WSL_exploit/WSL_slides.pdf), [video](https://www.youtube.com/watch?v=3deJvbBHET4&feature=youtu.be), [repo](https://github.com/saaramar/execve_exploit)
 
 ## Papers / projects
+MICRO '23 [CHERIoT: Complete Memory Safety for Embedded Devices](https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf)
+
 [CHERIoT: Rethinking security for low-cost embedded systems](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
 
 [Security analysis of CHERI ISA](https://github.com/microsoft/MSRC-Security-Research/blob/master/papers/2020/Security%20analysis%20of%20CHERI%20ISA.pdf)
